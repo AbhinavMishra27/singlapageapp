@@ -1,2 +1,3 @@
 # singlapageapp
-my info
+my info 
+this is my personal information
